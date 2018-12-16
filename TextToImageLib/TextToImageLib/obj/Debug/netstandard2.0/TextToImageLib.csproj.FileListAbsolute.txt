@@ -1,0 +1,6 @@
+D:\Edwin5\Subject Holder\Github Workspace\TextToImage\TextToImage\TextToImageLib\TextToImageLib\bin\Debug\netstandard2.0\TextToImageLib.deps.json
+D:\Edwin5\Subject Holder\Github Workspace\TextToImage\TextToImage\TextToImageLib\TextToImageLib\bin\Debug\netstandard2.0\TextToImageLib.dll
+D:\Edwin5\Subject Holder\Github Workspace\TextToImage\TextToImage\TextToImageLib\TextToImageLib\obj\Debug\netstandard2.0\TextToImageLib.csprojAssemblyReference.cache
+D:\Edwin5\Subject Holder\Github Workspace\TextToImage\TextToImage\TextToImageLib\TextToImageLib\obj\Debug\netstandard2.0\TextToImageLib.csproj.CoreCompileInputs.cache
+D:\Edwin5\Subject Holder\Github Workspace\TextToImage\TextToImage\TextToImageLib\TextToImageLib\obj\Debug\netstandard2.0\TextToImageLib.AssemblyInfoInputs.cache
+D:\Edwin5\Subject Holder\Github Workspace\TextToImage\TextToImage\TextToImageLib\TextToImageLib\obj\Debug\netstandard2.0\TextToImageLib.AssemblyInfo.cs
